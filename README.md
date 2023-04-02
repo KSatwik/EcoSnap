@@ -1,0 +1,2 @@
+# EcoSnap
+Hackathon submission
