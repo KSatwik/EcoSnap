@@ -6,3 +6,7 @@ user's actions. For example, using public transportation rather than a personal 
 points can be redeemed for discounts and other rewards provided by environmentally conscious companies. To maintain the 
 integrity of the system, the app also uses an anti-duplication algorithm to detect and prevent the submission of duplicate
 images. By promoting and rewarding sustainable behavior, EcoSnap is making it easier and more appealing to be environmentally conscious.
+
+
+So I have used a No-code app to make an App and used few ML models. The integration required payment so I havent integrated but I am
+sure that if integrated it would be the best App in the market.
